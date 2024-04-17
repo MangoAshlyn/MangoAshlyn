@@ -1,1 +1,1 @@
-Hello! This is special repository.
+Hello! This is a special repository.
